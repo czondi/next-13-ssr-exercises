@@ -9,7 +9,7 @@
 }
 
 .wrapper {
-  display: block;
+  display: inline-block;
   animation: spin var(--speed) linear infinite;
 }
 
